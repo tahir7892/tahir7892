@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahir7892&show_icons=true&theme=radical" alt="tahir7892" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahir7892&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="tahir7892" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahir7892&theme=radical" alt="streak-stats" />
 </p>
